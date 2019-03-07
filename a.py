@@ -1,1 +1,2 @@
-print(hello)
+message = 'hello'
+print(message)
